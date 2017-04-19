@@ -1,0 +1,36 @@
+2017-04-01 6:31:22 - INFO  --> Incoming request for Kenya ussd 
+2017-04-01 6:31:22 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-01 6:31:22 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-01 6:31:22 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-01 6:31:22 - INFO  --> SESSIONID :ATUid_de4d7a357c337c75e2a5001bf5e8774f|SERVICE CODE :*384*11#|MSISDN :+254712501069|CHECK OUT TOKEN : 
+2017-04-01 6:31:22 - INFO  -->  
+2017-04-01 6:31:22 - INFO  --> CALL SAVED 
+2017-04-01 6:31:22 - INFO  --> WAITING FOR THE CALL TO FINISH FOR SMS SENDING 45 min 
+2017-04-01 6:31:22 - INFO  --> SMS SENT TO LEG A 
+2017-04-01 6:31:22 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254712501069</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_4b0524731395591e53d83c4e3752bc26</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-04-01 6:31:23 - INFO  --> SMS SENT TO LEG B 
+2017-04-01 6:31:23 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254700560256</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_f25be20d9275b653ce927279e4243b3b</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-04-01 17:23:42 - INFO  --> Incoming request for Kenya ussd 
+2017-04-01 17:23:42 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-01 17:23:42 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-01 17:23:42 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-01 17:23:42 - INFO  --> SESSIONID :ATUid_f3950312d71c91d4bcd379d3d6e71d90|SERVICE CODE :*384*11#|MSISDN :+254722455192|CHECK OUT TOKEN : 
+2017-04-01 17:23:42 - INFO  -->  
+2017-04-01 17:52:14 - INFO  --> Incoming request for Kenya ussd 
+2017-04-01 17:52:14 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-01 17:52:14 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-01 17:52:14 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-01 17:52:14 - INFO  --> SESSIONID :ATUid_82dc4ecc192c7e5b440f19ddcc52bb94|SERVICE CODE :*384*11#|MSISDN :+254702638599|CHECK OUT TOKEN : 
+2017-04-01 17:52:14 - INFO  -->  
+2017-04-01 23:01:05 - INFO  --> Incoming request for Kenya ussd 
+2017-04-01 23:01:05 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-01 23:01:05 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-01 23:01:05 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-01 23:01:05 - INFO  --> SESSIONID :ATUid_660fd753c061b8c7bacd37f733b83cfb|SERVICE CODE :*384*11#|MSISDN :+254716501196|CHECK OUT TOKEN : 
+2017-04-01 23:01:05 - INFO  -->  
+2017-04-01 23:01:06 - INFO  --> CALL SAVED 
+2017-04-01 23:01:06 - INFO  --> WAITING FOR THE CALL TO FINISH FOR SMS SENDING 45 min 
+2017-04-01 23:01:06 - INFO  --> SMS SENT TO LEG A 
+2017-04-01 23:01:06 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 0/1 Total Cost: 0</Message><Recipients><Recipient><number>+254716501196</number><cost>0</cost><status>User In BlackList</status><messageId>None</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-04-01 23:01:06 - INFO  --> SMS SENT TO LEG B 
+2017-04-01 23:01:06 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254792133524</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_69c92f3b807c0119504964c07fc95dfc</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 

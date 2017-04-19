@@ -1,0 +1,21 @@
+2017-04-13 0:07:30 - INFO  --> Incoming request for Kenya ussd 
+2017-04-13 0:07:30 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-13 0:07:30 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-13 0:07:30 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-13 0:07:30 - INFO  --> SESSIONID :ATUid_759f9d347017e432ad6e192bde998177|SERVICE CODE :*384*11#|MSISDN :+254792902806|CHECK OUT TOKEN : 
+2017-04-13 0:07:30 - INFO  -->  
+2017-04-13 0:08:07 - INFO  --> Incoming request for Kenya ussd 
+2017-04-13 0:08:07 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-13 0:08:07 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-13 0:08:07 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-13 0:08:07 - INFO  --> SESSIONID :ATUid_759f9d347017e432ad6e192bde998177|SERVICE CODE :*384*11#|MSISDN :+254792902806|CHECK OUT TOKEN : 
+2017-04-13 0:08:07 - INFO  -->  
+2017-04-13 15:17:30 - INFO  --> Incoming request for Kenya ussd 
+2017-04-13 15:17:30 - INFO  --> ============= INCOMING PARAMETERS FROM SAFARICOM =============== 
+2017-04-13 15:17:30 - INFO  --> MSISDN :254725272052|SHORT CODE :22384|KEYWORD :vcall|TYPE OF REQUEST :Addition 
+2017-04-13 15:17:30 - INFO  --> SUBSCRIBER SAVED 
+2017-04-13 15:17:31 - INFO  --> SMS SENT TO SAFARICOM SUBSCRIBER 
+2017-04-13 15:17:31 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254725272052</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_f102f16d814d4c2342fb629470e753ba</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-04-13 15:17:31 - INFO  --> ============= SMS SENT =============== 
+2017-04-13 15:17:31 - INFO  --> SMS SENT TO :254725272052 
+2017-04-13 15:17:31 - INFO  --> SUBSCRIPTION STATUS UPDATED 

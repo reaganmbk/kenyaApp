@@ -1,0 +1,88 @@
+2017-04-12 9:54:58 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 9:54:58 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 9:54:58 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 9:54:58 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 9:54:58 - INFO  --> SESSIONID :ATUid_ee129c7c7e7995d1e9ab8b19fe15f0d1|SERVICE CODE :*384*11#|MSISDN :+254723176186|CHECK OUT TOKEN : 
+2017-04-12 9:54:58 - INFO  -->  
+2017-04-12 14:47:48 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 14:47:48 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 14:47:48 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 14:47:48 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 14:47:48 - INFO  --> SESSIONID :ATUid_d05c8e4df4fe71668dd67d6eb1957453|SERVICE CODE :*384*11#|MSISDN :+254798365186|CHECK OUT TOKEN : 
+2017-04-12 14:47:48 - INFO  -->  
+2017-04-12 14:48:09 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 14:48:09 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 14:48:09 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 14:48:09 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 14:48:09 - INFO  --> SESSIONID :ATUid_d05c8e4df4fe71668dd67d6eb1957453|SERVICE CODE :*384*11#|MSISDN :+254798365186|CHECK OUT TOKEN : 
+2017-04-12 14:48:09 - INFO  -->  
+2017-04-12 14:48:09 - INFO  --> SESSION SAVED 
+2017-04-12 14:48:09 - INFO  --> TOKEN UPDATED 
+2017-04-12 14:48:09 - INFO  --> CkTkn_7a67afda-ed9b-4f9a-8d0b-3ca0c5244981 
+2017-04-12 14:48:09 - INFO  --> GET TOKEN FOR CURL TO SAFARICOM 
+2017-04-12 14:48:09 - INFO  --> CkTkn_9a2073e8-5dee-4a88-b717-b54cc52acc83 
+2017-04-12 14:48:11 - INFO  --> Subscribe Request 
+2017-04-12 14:48:11 - INFO  --> <AfricasTalkingResponse><status>Success</status><description>Waiting for user input</description></AfricasTalkingResponse> 
+2017-04-12 17:12:08 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 17:12:08 - INFO  --> ============= INCOMING PARAMETERS FROM SAFARICOM =============== 
+2017-04-12 17:12:08 - INFO  --> MSISDN :254721803846|SHORT CODE :22384|KEYWORD :vcall|TYPE OF REQUEST :Deletion 
+2017-04-12 17:12:08 - INFO  --> SUBSCRIBER DELETED 
+2017-04-12 17:12:08 - INFO  --> SMS SENT TO SAFARICOM SUBSCRIBER 
+2017-04-12 17:12:08 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254721803846</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_6160a7283562e0bcabf8f2a7fe7bf478</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-04-12 17:12:39 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 17:12:39 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 17:12:39 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 17:12:39 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 17:12:39 - INFO  --> SESSIONID :ATUid_e66389dde152f6cbd603927db47c431c|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-04-12 17:12:39 - INFO  -->  
+2017-04-12 17:12:44 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 17:12:44 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 17:12:44 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 17:12:44 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 17:12:44 - INFO  --> SESSIONID :ATUid_e66389dde152f6cbd603927db47c431c|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-04-12 17:12:44 - INFO  -->  
+2017-04-12 17:12:44 - INFO  --> SESSION SAVED 
+2017-04-12 17:12:44 - INFO  --> TOKEN UPDATED 
+2017-04-12 17:12:44 - INFO  --> CkTkn_3d42c6a6-2b79-4778-b526-17795e1a134f 
+2017-04-12 17:12:44 - INFO  --> GET TOKEN FOR CURL TO SAFARICOM 
+2017-04-12 17:12:44 - INFO  --> CkTkn_68052981-35fe-49a4-bb5c-24af0dbf5c04 
+2017-04-12 17:12:45 - INFO  --> Subscribe Request 
+2017-04-12 17:12:45 - INFO  --> <AfricasTalkingResponse><status>Success</status><description>Waiting for user input</description></AfricasTalkingResponse> 
+2017-04-12 17:13:01 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 17:13:01 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 17:13:01 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 17:13:01 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 17:13:01 - INFO  --> SESSIONID :ATUid_df3aa58968222bd730c64bcc5a0edbf7|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-04-12 17:13:01 - INFO  -->  
+2017-04-12 17:13:07 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 17:13:07 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 17:13:07 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 17:13:07 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 17:13:07 - INFO  --> SESSIONID :ATUid_df3aa58968222bd730c64bcc5a0edbf7|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-04-12 17:13:07 - INFO  -->  
+2017-04-12 17:13:07 - INFO  --> SESSION SAVED 
+2017-04-12 17:13:07 - INFO  --> TOKEN UPDATED 
+2017-04-12 17:13:07 - INFO  --> CkTkn_04713bcf-57aa-469f-84bf-8e0284e1ad38 
+2017-04-12 17:13:07 - INFO  --> GET TOKEN FOR CURL TO SAFARICOM 
+2017-04-12 17:13:07 - INFO  --> CkTkn_14fa2889-4939-4734-a086-4172877e4039 
+2017-04-12 17:13:08 - INFO  --> Subscribe Request 
+2017-04-12 17:13:08 - INFO  --> <AfricasTalkingResponse><status>Success</status><description>Waiting for user input</description></AfricasTalkingResponse> 
+2017-04-12 17:26:19 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 17:26:19 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 17:26:19 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 17:26:19 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 17:26:19 - INFO  --> SESSIONID :ATUid_1a28f573ce966d811e64b225f26573b0|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-04-12 17:26:19 - INFO  -->  
+2017-04-12 17:26:23 - INFO  --> Incoming request for Kenya ussd 
+2017-04-12 17:26:23 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-04-12 17:26:23 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-04-12 17:26:23 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-04-12 17:26:23 - INFO  --> SESSIONID :ATUid_1a28f573ce966d811e64b225f26573b0|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-04-12 17:26:23 - INFO  -->  
+2017-04-12 17:26:23 - INFO  --> SESSION SAVED 
+2017-04-12 17:26:23 - INFO  --> TOKEN UPDATED 
+2017-04-12 17:26:23 - INFO  --> CkTkn_17dd5af5-205e-49a8-98d1-0e097e3d6cea 
+2017-04-12 17:26:23 - INFO  --> GET TOKEN FOR CURL TO SAFARICOM 
+2017-04-12 17:26:23 - INFO  --> CkTkn_2f09be8a-de9b-4264-88d2-c47f52fb8623 
+2017-04-12 17:26:24 - INFO  --> Subscribe Request 
+2017-04-12 17:26:24 - INFO  --> <AfricasTalkingResponse><status>Success</status><description>Waiting for user input</description></AfricasTalkingResponse> 

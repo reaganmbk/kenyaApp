@@ -1,0 +1,797 @@
+2017-03-29 14:04:48 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:04:48 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:04:48 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:04:48 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:04:48 - INFO  --> SESSIONID :5c7a86c9-02f7-4051-9906-55c7536d8800|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:04:48 - INFO  -->  
+2017-03-29 14:04:53 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:04:53 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:04:53 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:04:53 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:04:53 - INFO  --> SESSIONID :5c7a86c9-02f7-4051-9906-55c7536d8800|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:04:53 - INFO  -->  
+2017-03-29 14:04:53 - INFO  --> SESSION SAVED 
+2017-03-29 14:04:53 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:04:53 - INFO  --> CkTkn_9c36be80-e19b-422c-8529-6ae057c63522 
+2017-03-29 14:04:53 - INFO  --> GET TOKEN 
+2017-03-29 14:04:53 - INFO  --> CkTkn_3cda2832-a8cd-4a1b-8181-864c21de3e19 
+2017-03-29 14:04:54 - INFO  --> Subscription response 
+2017-03-29 14:04:54 - INFO  --> <AfricasTalkingResponse><status>Success</status><description>Waiting for user input</description></AfricasTalkingResponse> 
+2017-03-29 14:07:22 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:07:22 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:07:22 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:07:22 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:07:22 - INFO  --> SESSIONID :0a126026-97cc-4602-8217-5a4d908b3ec1|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:07:22 - INFO  -->  
+2017-03-29 14:07:25 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:07:25 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:07:25 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:07:25 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:07:25 - INFO  --> SESSIONID :0a126026-97cc-4602-8217-5a4d908b3ec1|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:07:25 - INFO  -->  
+2017-03-29 14:07:25 - INFO  --> SESSION SAVED 
+2017-03-29 14:10:56 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:10:56 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:10:56 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:10:56 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:10:56 - INFO  --> SESSIONID :45f89ce6-6eb1-4638-b680-e431a1991b53|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:10:56 - INFO  -->  
+2017-03-29 14:11:00 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:11:00 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:11:00 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:11:00 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:11:00 - INFO  --> SESSIONID :45f89ce6-6eb1-4638-b680-e431a1991b53|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:11:00 - INFO  -->  
+2017-03-29 14:11:00 - INFO  --> SESSION SAVED 
+2017-03-29 14:11:01 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:11:01 - INFO  --> CkTkn_57f70f5c-5ad1-4cae-a031-760e897478ae 
+2017-03-29 14:11:01 - INFO  --> GET TOKEN 
+2017-03-29 14:11:01 - INFO  --> CkTkn_806d642c-aedd-4054-8018-281e02888534 
+2017-03-29 14:11:01 - INFO  --> Subscription response 
+2017-03-29 14:11:01 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number  254712127105</description></AfricasTalkingResponse> 
+2017-03-29 14:13:31 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:13:31 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:13:31 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:13:31 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:13:31 - INFO  --> SESSIONID :9da23af7-2551-4faf-9900-a39bd1fdcf81|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:13:31 - INFO  -->  
+2017-03-29 14:13:43 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:13:43 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:13:43 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:13:43 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:13:43 - INFO  --> SESSIONID :b17f76ec-940a-41a8-b8d3-9f653d7dbcc6|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:13:43 - INFO  -->  
+2017-03-29 14:13:47 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:13:47 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:13:47 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:13:47 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:13:47 - INFO  --> SESSIONID :b17f76ec-940a-41a8-b8d3-9f653d7dbcc6|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:13:47 - INFO  -->  
+2017-03-29 14:13:47 - INFO  --> SESSION SAVED 
+2017-03-29 14:13:47 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:13:47 - INFO  --> CkTkn_7fe6bedf-5c59-4ff2-af40-cba6e82a5701 
+2017-03-29 14:13:47 - INFO  --> GET TOKEN 
+2017-03-29 14:13:47 - INFO  --> CkTkn_66f8df3a-245b-4816-9f31-25371e6c0f82 
+2017-03-29 14:13:48 - INFO  --> Subscription response 
+2017-03-29 14:13:48 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>Invalid token provided</description></AfricasTalkingResponse> 
+2017-03-29 14:16:36 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:16:36 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:16:36 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:16:36 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:16:36 - INFO  --> SESSIONID :e63811ef-c3e0-4de3-b482-32d37bff5e0b|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:16:36 - INFO  -->  
+2017-03-29 14:16:40 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:16:40 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:16:40 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:16:40 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:16:40 - INFO  --> SESSIONID :e63811ef-c3e0-4de3-b482-32d37bff5e0b|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:16:40 - INFO  -->  
+2017-03-29 14:16:40 - INFO  --> SESSION SAVED 
+2017-03-29 14:16:41 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:16:41 - INFO  --> CkTkn_a0ce803e-f9ca-4751-bb09-d86c4a1d5010 
+2017-03-29 14:16:41 - INFO  --> GET TOKEN 
+2017-03-29 14:16:41 - INFO  --> CkTkn_cd17bb57-37b1-4cc2-b854-a2785a144108 
+2017-03-29 14:16:41 - INFO  --> Subscription response 
+2017-03-29 14:16:41 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number bab675f3caa2a595f66bc3f669581c05929e962585e4470bb1b6f25a9be0a2db</description></AfricasTalkingResponse> 
+2017-03-29 14:17:16 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:17:16 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:17:16 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:17:16 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:17:16 - INFO  --> SESSIONID :ATUid_1131cd7586dca74059f39792e61403df|SERVICE CODE :*384*11#|MSISDN :+254706326753|CHECK OUT TOKEN : 
+2017-03-29 14:17:16 - INFO  -->  
+2017-03-29 14:17:16 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:17:16 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:17:16 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:17:16 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:17:16 - INFO  --> SESSIONID :6c9e846c-d5ac-4085-b72a-973377126f29|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:17:16 - INFO  -->  
+2017-03-29 14:17:16 - INFO  --> CALL SAVED 
+2017-03-29 14:17:16 - INFO  --> WAITING FOR THE CALL TO FINISH FOR SMS SENDING 45 min 
+2017-03-29 14:17:17 - INFO  --> SMS SENT TO LEG A 
+2017-03-29 14:17:17 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254706326753</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_df7e77f37d74da934ac46eedda047219</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-03-29 14:17:17 - INFO  --> SMS SENT TO LEG B 
+2017-03-29 14:17:17 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254710745717</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_8424ac1fe643bcf6a18f42b942a17528</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-03-29 14:17:20 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:17:20 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:17:20 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:17:20 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:17:20 - INFO  --> SESSIONID :6c9e846c-d5ac-4085-b72a-973377126f29|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:17:20 - INFO  -->  
+2017-03-29 14:17:20 - INFO  --> SESSION SAVED 
+2017-03-29 14:17:20 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:17:20 - INFO  --> CkTkn_6305d09b-610b-4105-8126-89f109af375a 
+2017-03-29 14:17:20 - INFO  --> GET TOKEN 
+2017-03-29 14:17:20 - INFO  --> CkTkn_101338cb-7dfb-43fa-911e-a39a2c99ebd0 
+2017-03-29 14:17:21 - INFO  --> Subscription response 
+2017-03-29 14:17:21 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number bab675f3caa2a595f66bc3f669581c05929e962585e4470bb1b6f25a9be0a2db</description></AfricasTalkingResponse> 
+2017-03-29 14:18:06 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:18:06 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:18:06 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:18:06 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:18:06 - INFO  --> SESSIONID :e20dc896-e46c-46f9-a812-c2d3028f9425|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:18:06 - INFO  -->  
+2017-03-29 14:18:09 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:18:09 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:18:09 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:18:09 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:18:09 - INFO  --> SESSIONID :e20dc896-e46c-46f9-a812-c2d3028f9425|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:18:09 - INFO  -->  
+2017-03-29 14:18:09 - INFO  --> SESSION SAVED 
+2017-03-29 14:18:09 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:18:09 - INFO  --> CkTkn_caa5e36e-3545-4be5-95ca-25d423fa5cd3 
+2017-03-29 14:18:10 - INFO  --> GET TOKEN 
+2017-03-29 14:18:10 - INFO  --> CkTkn_24fac9c6-ea90-4ac9-942a-e1e36bb9fd7e 
+2017-03-29 14:18:10 - INFO  --> Subscription response 
+2017-03-29 14:18:10 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number bab675f3caa2a595f66bc3f669581c05929e962585e4470bb1b6f25a9be0a2db</description></AfricasTalkingResponse> 
+2017-03-29 14:20:44 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:20:44 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:20:44 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:20:44 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:20:44 - INFO  --> SESSIONID :e5d23048-9e12-4c04-97a1-7cc69a19a530|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:20:44 - INFO  -->  
+2017-03-29 14:20:48 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:20:48 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:20:48 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:20:48 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:20:48 - INFO  --> SESSIONID :14a65ed1-9863-42e2-b626-1ea42d837b6c|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:20:48 - INFO  -->  
+2017-03-29 14:21:05 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:21:05 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:21:05 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:21:05 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:21:05 - INFO  --> SESSIONID :ed3f31a8-81f0-47b5-89f5-1bf9461cdd57|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:21:05 - INFO  -->  
+2017-03-29 14:21:10 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:21:10 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:21:10 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:21:10 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:21:10 - INFO  --> SESSIONID :ed3f31a8-81f0-47b5-89f5-1bf9461cdd57|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:21:10 - INFO  -->  
+2017-03-29 14:21:10 - INFO  --> SESSION SAVED 
+2017-03-29 14:21:10 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:21:10 - INFO  --> CkTkn_b7ec6caf-6b5b-4204-abe6-046109653815 
+2017-03-29 14:21:10 - INFO  --> GET TOKEN 
+2017-03-29 14:21:10 - INFO  --> CkTkn_00c5f822-ae93-48a7-9ecd-59218892f686 
+2017-03-29 14:21:10 - INFO  --> Subscription response 
+2017-03-29 14:21:10 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number </description></AfricasTalkingResponse> 
+2017-03-29 14:21:46 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:21:46 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:21:46 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:21:46 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:21:46 - INFO  --> SESSIONID :1e893f27-8c17-4100-9dc2-029069753cce|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:21:46 - INFO  -->  
+2017-03-29 14:21:51 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:21:51 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:21:51 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:21:51 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:21:51 - INFO  --> SESSIONID :1e893f27-8c17-4100-9dc2-029069753cce|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:21:51 - INFO  -->  
+2017-03-29 14:21:51 - INFO  --> SESSION SAVED 
+2017-03-29 14:21:51 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:21:51 - INFO  --> CkTkn_6799006b-80e2-4c8f-9bd3-2005f758dead 
+2017-03-29 14:21:51 - INFO  --> GET TOKEN 
+2017-03-29 14:21:51 - INFO  --> CkTkn_5f166904-5d67-442e-9cfb-23ec90d2720f 
+2017-03-29 14:21:51 - INFO  --> Subscription response 
+2017-03-29 14:21:51 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number </description></AfricasTalkingResponse> 
+2017-03-29 14:23:08 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:23:08 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:23:08 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:23:08 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:23:08 - INFO  --> SESSIONID :7f68c0db-7d7a-41e0-9618-c93f4228f5ac|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:23:08 - INFO  -->  
+2017-03-29 14:23:10 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:23:10 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:23:10 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:23:10 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:23:10 - INFO  --> SESSIONID :7f68c0db-7d7a-41e0-9618-c93f4228f5ac|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:23:10 - INFO  -->  
+2017-03-29 14:23:10 - INFO  --> SESSION SAVED 
+2017-03-29 14:23:43 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:23:43 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:23:43 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:23:43 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:23:43 - INFO  --> SESSIONID :c40b1006-64fb-4766-b12c-5a95730b0d7d|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:23:43 - INFO  -->  
+2017-03-29 14:23:47 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:23:47 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:23:47 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:23:47 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:23:47 - INFO  --> SESSIONID :c40b1006-64fb-4766-b12c-5a95730b0d7d|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:23:47 - INFO  -->  
+2017-03-29 14:23:47 - INFO  --> SESSION SAVED 
+2017-03-29 14:25:40 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:25:40 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:25:40 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:25:40 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:25:40 - INFO  --> SESSIONID :22e82d1a-1ec7-47ed-b39c-502208d343fd|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:25:40 - INFO  -->  
+2017-03-29 14:25:44 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:25:44 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:25:44 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:25:44 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:25:44 - INFO  --> SESSIONID :22e82d1a-1ec7-47ed-b39c-502208d343fd|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:25:44 - INFO  -->  
+2017-03-29 14:25:44 - INFO  --> SESSION SAVED 
+2017-03-29 14:25:44 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:25:44 - INFO  --> CkTkn_5437d887-2074-4f72-a3af-e08187667155 
+2017-03-29 14:27:02 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:27:02 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:27:02 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:27:02 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:27:02 - INFO  --> SESSIONID :badcbad1-0a98-4240-9759-23937751eee1|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:27:02 - INFO  -->  
+2017-03-29 14:27:06 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:27:06 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:27:06 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:27:06 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:27:06 - INFO  --> SESSIONID :badcbad1-0a98-4240-9759-23937751eee1|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:27:06 - INFO  -->  
+2017-03-29 14:27:06 - INFO  --> SESSION SAVED 
+2017-03-29 14:27:06 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:27:06 - INFO  --> CkTkn_bf26941d-07f4-4e31-8693-ff05bc59b7bc 
+2017-03-29 14:27:06 - INFO  --> GET TOKEN 
+2017-03-29 14:27:06 - INFO  --> CkTkn_dfeb5c47-9b05-4bc7-b6fe-5977300fdd56 
+2017-03-29 14:27:06 - INFO  --> Subscription response 
+2017-03-29 14:27:06 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number </description></AfricasTalkingResponse> 
+2017-03-29 14:29:34 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:29:34 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:29:34 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:29:34 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:29:34 - INFO  --> SESSIONID :e5049a6b-767e-473d-95ae-dff5426ea9cb|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:29:34 - INFO  -->  
+2017-03-29 14:29:48 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:29:48 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:29:48 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:29:48 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:29:48 - INFO  --> SESSIONID :4d9b202b-e3fe-479b-bb9f-697843f39db4|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:29:48 - INFO  -->  
+2017-03-29 14:29:50 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:29:50 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:29:50 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:29:50 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:29:50 - INFO  --> SESSIONID :4d9b202b-e3fe-479b-bb9f-697843f39db4|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:29:50 - INFO  -->  
+2017-03-29 14:29:50 - INFO  --> SESSION SAVED 
+2017-03-29 14:29:50 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:29:50 - INFO  --> CkTkn_54e23464-5950-4164-80ed-257cc7b4cf22 
+2017-03-29 14:29:50 - INFO  --> GET TOKEN 
+2017-03-29 14:29:50 - INFO  --> CkTkn_1ba6e254-b212-42c9-bc0d-5507c7468915 
+2017-03-29 14:29:50 - INFO  --> Subscription response 
+2017-03-29 14:29:50 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number </description></AfricasTalkingResponse> 
+2017-03-29 14:32:41 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:32:41 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:32:41 - INFO  --> CkTkn_193d0074-8d1e-407d-baff-df7e5a920552 
+2017-03-29 14:32:42 - INFO  --> GET TOKEN 
+2017-03-29 14:32:42 - INFO  --> CkTkn_8be032d8-276c-4e47-8d32-9a99b6c8c7c7 
+2017-03-29 14:32:42 - INFO  --> Subscription response 
+2017-03-29 14:32:42 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number </description></AfricasTalkingResponse> 
+2017-03-29 14:38:13 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:38:13 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:38:13 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:38:13 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:38:13 - INFO  --> SESSIONID :44bc781d-7626-46f5-9b4a-9c5d0a054854|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:38:13 - INFO  -->  
+2017-03-29 14:38:16 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:38:16 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:38:16 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:38:16 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:38:16 - INFO  --> SESSIONID :44bc781d-7626-46f5-9b4a-9c5d0a054854|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:38:16 - INFO  -->  
+2017-03-29 14:38:16 - INFO  --> SESSION SAVED 
+2017-03-29 14:38:16 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:38:16 - INFO  --> CkTkn_d7217b6b-739c-4d1a-b287-e8d6da887e31 
+2017-03-29 14:38:16 - INFO  --> GET TOKEN 
+2017-03-29 14:38:16 - INFO  --> CkTkn_6b45d89b-cdbb-4783-a290-512bb9bf9ae7 
+2017-03-29 14:38:16 - INFO  --> Subscription response 
+2017-03-29 14:38:16 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>This feature is not supported for number bab675f3caa2a595f66bc3f669581c05929e962585e4470bb1b6f25a9be0a2db</description></AfricasTalkingResponse> 
+2017-03-29 14:38:25 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:38:25 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:38:25 - INFO  --> CkTkn_19c55951-a8e9-44f9-bf2f-6dbb238ab33c 
+2017-03-29 14:38:25 - INFO  --> GET TOKEN 
+2017-03-29 14:38:25 - INFO  --> CkTkn_ed190713-c630-4101-a196-04448ed604a1 
+2017-03-29 14:38:26 - INFO  --> Subscription response 
+2017-03-29 14:38:26 - INFO  --> <AfricasTalkingResponse><status>Success</status><description>Waiting for user input</description></AfricasTalkingResponse> 
+2017-03-29 14:39:50 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:39:50 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:39:50 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:39:50 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:39:50 - INFO  --> SESSIONID :775bcdec-fd6e-46a6-b6c2-8b01ccf17c59|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:39:50 - INFO  -->  
+2017-03-29 14:39:52 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:39:52 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:39:52 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:39:52 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:39:52 - INFO  --> SESSIONID :775bcdec-fd6e-46a6-b6c2-8b01ccf17c59|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:39:52 - INFO  -->  
+2017-03-29 14:39:52 - INFO  --> SESSION SAVED 
+2017-03-29 14:39:52 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:39:52 - INFO  --> CkTkn_8545403d-3907-49bf-826f-dcf2b2b626e6 
+2017-03-29 14:39:52 - INFO  --> GET TOKEN 
+2017-03-29 14:39:52 - INFO  --> CkTkn_c205a3e2-7b12-4be7-a0f8-32611515bc60 
+2017-03-29 14:39:52 - INFO  --> Subscription response 
+2017-03-29 14:39:52 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>Rejected by gateway</description></AfricasTalkingResponse> 
+2017-03-29 14:41:30 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:41:30 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:41:30 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:41:30 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:41:30 - INFO  --> SESSIONID :b3be14ab-c1a5-4eee-bf51-9dc454f9f2cf|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:41:30 - INFO  -->  
+2017-03-29 14:41:32 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:41:32 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:41:32 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:41:32 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:41:32 - INFO  --> SESSIONID :b3be14ab-c1a5-4eee-bf51-9dc454f9f2cf|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:41:32 - INFO  -->  
+2017-03-29 14:41:32 - INFO  --> SESSION SAVED 
+2017-03-29 14:41:32 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:41:32 - INFO  --> CkTkn_f4e019e9-6615-4a13-955f-5757e24859ba 
+2017-03-29 14:41:32 - INFO  --> GET TOKEN 
+2017-03-29 14:41:32 - INFO  --> CkTkn_1a8265b4-2479-4127-b516-4d5b818a9ec5 
+2017-03-29 14:41:32 - INFO  --> Subscription response 
+2017-03-29 14:41:32 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>Rejected by gateway</description></AfricasTalkingResponse> 
+2017-03-29 14:42:52 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:42:52 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:42:52 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:42:52 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:42:52 - INFO  --> SESSIONID :bbae08e4-3a84-4b21-ae75-3a45d9e3bfbd|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:42:52 - INFO  -->  
+2017-03-29 14:45:30 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:45:30 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:45:30 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:45:30 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:45:30 - INFO  --> SESSIONID :e9c9546e-c302-4c51-83a4-f251116f9e67|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:45:30 - INFO  -->  
+2017-03-29 14:46:11 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:46:11 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:46:11 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:46:11 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:46:11 - INFO  --> SESSIONID :ae200ca3-8e6a-43f3-8cbe-1b19f7ad9164|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:46:11 - INFO  -->  
+2017-03-29 14:46:15 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:46:15 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:46:15 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:46:15 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:46:15 - INFO  --> SESSIONID :ae200ca3-8e6a-43f3-8cbe-1b19f7ad9164|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:46:15 - INFO  -->  
+2017-03-29 14:46:15 - INFO  --> SESSION SAVED 
+2017-03-29 14:46:15 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:46:15 - INFO  --> CkTkn_c6c921b0-288a-4348-948c-b77b1f8b1ca3 
+2017-03-29 14:46:16 - INFO  --> Subscription response 
+2017-03-29 14:46:16 - INFO  --> <AfricasTalkingResponse><status>Failed</status><description>Rejected by gateway</description></AfricasTalkingResponse> 
+2017-03-29 14:47:29 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:47:29 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:47:29 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:47:29 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:47:29 - INFO  --> SESSIONID :db7484a0-6a76-4efb-a50a-6c6b8c803b19|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:47:29 - INFO  -->  
+2017-03-29 14:47:31 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:47:31 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:47:31 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:47:31 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:47:31 - INFO  --> SESSIONID :db7484a0-6a76-4efb-a50a-6c6b8c803b19|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:47:31 - INFO  -->  
+2017-03-29 14:47:31 - INFO  --> SESSION SAVED 
+2017-03-29 14:47:31 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:47:31 - INFO  --> CkTkn_fae01a17-2224-47e0-9504-477c247fa1da 
+2017-03-29 14:49:05 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:49:05 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:49:05 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:49:05 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:49:05 - INFO  --> SESSIONID :e2443be3-4ab3-43af-a898-6d17bee0fa0f|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:49:05 - INFO  -->  
+2017-03-29 14:49:15 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:49:15 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:49:15 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:49:15 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:49:15 - INFO  --> SESSIONID :e2443be3-4ab3-43af-a898-6d17bee0fa0f|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:49:15 - INFO  -->  
+2017-03-29 14:49:15 - INFO  --> SESSION SAVED 
+2017-03-29 14:49:15 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:49:15 - INFO  --> CkTkn_112a9bff-c7e3-4d3d-a86b-4002aa612114 
+2017-03-29 14:50:32 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:50:32 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:50:32 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:50:32 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:50:32 - INFO  --> SESSIONID :15b74dbb-9c6a-451d-8a93-1daea203405a|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:50:32 - INFO  -->  
+2017-03-29 14:50:34 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:50:34 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 14:50:34 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 14:50:34 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 14:50:34 - INFO  --> SESSIONID :15b74dbb-9c6a-451d-8a93-1daea203405a|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 14:50:34 - INFO  -->  
+2017-03-29 14:50:34 - INFO  --> SESSION SAVED 
+2017-03-29 14:50:35 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:50:35 - INFO  --> CkTkn_e0254046-f63a-4fd4-9a64-5fe0d71a090d 
+2017-03-29 14:52:37 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 14:52:37 - INFO  --> TOKEN UPDATED 
+2017-03-29 14:52:37 - INFO  --> CkTkn_35cfe82a-2d6f-4770-86fe-0c0202956f08 
+2017-03-29 15:21:32 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:21:32 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:21:32 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:21:32 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:21:32 - INFO  --> SESSIONID :ATUid_37d3e444e2d7f9237f3cfa148fb0c557|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-03-29 15:21:32 - INFO  -->  
+2017-03-29 15:21:38 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:21:38 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:21:38 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:21:38 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:21:38 - INFO  --> SESSIONID :ATUid_37d3e444e2d7f9237f3cfa148fb0c557|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-03-29 15:21:38 - INFO  -->  
+2017-03-29 15:21:38 - INFO  --> SESSION SAVED 
+2017-03-29 15:21:38 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:21:38 - INFO  --> CkTkn_e554995d-120b-44ca-90b5-e6a3e9166648 
+2017-03-29 15:21:52 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:21:52 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:21:52 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:21:52 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:21:52 - INFO  --> SESSIONID :ATUid_7071c6e6a1dbfe265de1a2fc0693e57e|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-03-29 15:21:52 - INFO  -->  
+2017-03-29 15:49:57 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:49:57 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:49:57 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:49:57 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:49:57 - INFO  --> SESSIONID :ATUid_ea411885e25f0b0493f720831edb5c9a|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-03-29 15:49:57 - INFO  -->  
+2017-03-29 15:50:02 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:50:02 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:50:02 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:50:02 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:50:02 - INFO  --> SESSIONID :ATUid_ea411885e25f0b0493f720831edb5c9a|SERVICE CODE :*384*11#|MSISDN :+254721803846|CHECK OUT TOKEN : 
+2017-03-29 15:50:02 - INFO  -->  
+2017-03-29 15:50:02 - INFO  --> SESSION SAVED 
+2017-03-29 15:50:02 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:50:02 - INFO  --> CkTkn_32bc8e3e-36bf-40af-8f36-31f4c002ef96 
+2017-03-29 15:52:20 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:52:20 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:52:20 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:52:20 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:52:20 - INFO  --> SESSIONID :557c8e39-e5be-47d3-8b5b-c6cc3f301e07|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:52:20 - INFO  -->  
+2017-03-29 15:52:23 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:52:23 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:52:23 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:52:23 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:52:23 - INFO  --> SESSIONID :557c8e39-e5be-47d3-8b5b-c6cc3f301e07|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:52:23 - INFO  -->  
+2017-03-29 15:52:23 - INFO  --> SESSION SAVED 
+2017-03-29 15:52:23 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:52:23 - INFO  --> CkTkn_d5c497f0-bc70-40f7-924b-2e7f7ad95250 
+2017-03-29 15:53:39 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:53:39 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:53:39 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:53:39 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:53:39 - INFO  --> SESSIONID :5c00c3d3-d649-4cf2-89c1-42fc8c16c621|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:53:39 - INFO  -->  
+2017-03-29 15:53:50 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:53:50 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:53:50 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:53:50 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:53:50 - INFO  --> SESSIONID :9e6c3ce8-ab92-4919-8ba1-df54ad6a4a6a|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:53:50 - INFO  -->  
+2017-03-29 15:53:53 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:53:53 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:53:53 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:53:53 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:53:53 - INFO  --> SESSIONID :9e6c3ce8-ab92-4919-8ba1-df54ad6a4a6a|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:53:53 - INFO  -->  
+2017-03-29 15:53:53 - INFO  --> SESSION SAVED 
+2017-03-29 15:53:53 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:53:53 - INFO  --> CkTkn_d53c468d-578a-491d-a1d9-1a6bfbb68726 
+2017-03-29 15:54:09 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:54:09 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:54:09 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:54:09 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:54:09 - INFO  --> SESSIONID :272a864d-37f0-4ef0-9301-62512c351103|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:54:09 - INFO  -->  
+2017-03-29 15:54:12 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:54:12 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:54:12 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:54:12 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:54:12 - INFO  --> SESSIONID :272a864d-37f0-4ef0-9301-62512c351103|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:54:12 - INFO  -->  
+2017-03-29 15:54:12 - INFO  --> SESSION SAVED 
+2017-03-29 15:54:12 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:54:12 - INFO  --> CkTkn_4e07992f-1f04-4879-9b37-959ee6c93cb2 
+2017-03-29 15:54:44 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:54:44 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:54:44 - INFO  --> CkTkn_d1798b3b-3651-4b9d-b1f0-fed47ed8a088 
+2017-03-29 15:56:26 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:56:26 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:56:26 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:56:26 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:56:26 - INFO  --> SESSIONID :6280e0b2-0af7-4990-998a-b4039d7b2355|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:56:26 - INFO  -->  
+2017-03-29 15:56:28 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:56:28 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:56:28 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:56:28 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:56:28 - INFO  --> SESSIONID :6280e0b2-0af7-4990-998a-b4039d7b2355|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:56:28 - INFO  -->  
+2017-03-29 15:56:28 - INFO  --> SESSION SAVED 
+2017-03-29 15:56:28 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:56:28 - INFO  --> CkTkn_c85bcc95-1afc-45aa-86d2-4eca51192c80 
+2017-03-29 15:58:59 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:58:59 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:58:59 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:58:59 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:58:59 - INFO  --> SESSIONID :61925466-183a-4334-8c72-461b05c1b419|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:58:59 - INFO  -->  
+2017-03-29 15:59:03 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 15:59:03 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 15:59:03 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 15:59:03 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 15:59:03 - INFO  --> SESSIONID :61925466-183a-4334-8c72-461b05c1b419|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 15:59:03 - INFO  -->  
+2017-03-29 15:59:03 - INFO  --> SESSION SAVED 
+2017-03-29 15:59:03 - INFO  --> TOKEN UPDATED 
+2017-03-29 15:59:03 - INFO  --> CkTkn_fb3e0e0a-7cb2-4ffd-ad07-472da2d028dc 
+2017-03-29 16:04:24 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:04:24 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:04:24 - INFO  --> CkTkn_6bf9eb6e-00c6-4a59-b404-4e4dd49fc4fd 
+2017-03-29 16:07:03 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:07:03 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 16:07:03 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 16:07:03 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 16:07:03 - INFO  --> SESSIONID :732bfc4d-2798-41e0-a496-ba4c9a7b554d|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 16:07:03 - INFO  -->  
+2017-03-29 16:07:05 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:07:05 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 16:07:05 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 16:07:05 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 16:07:05 - INFO  --> SESSIONID :732bfc4d-2798-41e0-a496-ba4c9a7b554d|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 16:07:05 - INFO  -->  
+2017-03-29 16:07:05 - INFO  --> SESSION SAVED 
+2017-03-29 16:07:05 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:07:05 - INFO  --> CkTkn_5525d745-b63c-4bb1-853b-e1adb233fcd7 
+2017-03-29 16:12:55 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:12:55 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:12:55 - INFO  --> CkTkn_7a0bccb0-4c98-4f59-8607-1669c9eed34c 
+2017-03-29 16:14:51 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:14:52 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:14:52 - INFO  --> CkTkn_dcabbd50-8886-4035-912c-f41f50ef24ac 
+2017-03-29 16:15:44 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:15:44 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:15:44 - INFO  --> CkTkn_4c4dce02-1226-4b0a-a2ed-9447413a09a8 
+2017-03-29 16:16:09 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:16:09 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:16:09 - INFO  --> CkTkn_4d47379e-b779-4044-9e17-7b6d703c9337 
+2017-03-29 16:17:06 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:17:06 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:17:06 - INFO  --> CkTkn_4a3e4324-29b3-4425-baab-51b9f011f4a0 
+2017-03-29 16:18:28 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:18:28 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:18:28 - INFO  --> CkTkn_98b1e0e1-574f-4a09-a53b-7096ea78cc23 
+2017-03-29 16:18:55 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:18:56 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:18:56 - INFO  --> CkTkn_fc0ef18c-5aa9-4861-89d4-86ee6d0fd4ad 
+2017-03-29 16:19:57 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:19:57 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:19:57 - INFO  --> CkTkn_f48b54a0-49ae-4876-b875-a352e5c296d4 
+2017-03-29 16:20:28 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:20:28 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:20:28 - INFO  --> CkTkn_e96450c3-c9ba-40e3-902e-ebd33ead69cb 
+2017-03-29 16:21:35 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:21:36 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:21:36 - INFO  --> CkTkn_5c0a5eb3-3fd4-491b-928a-7b76b047d567 
+2017-03-29 16:21:41 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:21:41 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:21:41 - INFO  --> CkTkn_b93323f0-86ed-42a4-8b11-3eff42a6ea5a 
+2017-03-29 16:21:45 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:21:45 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:21:45 - INFO  --> CkTkn_b9d3ddbb-38c7-48de-a015-e6f3760a08e0 
+2017-03-29 16:21:51 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:21:51 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:21:51 - INFO  --> None 
+2017-03-29 16:22:12 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:22:12 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:22:12 - INFO  --> None 
+2017-03-29 16:22:54 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:22:54 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:22:54 - INFO  --> None 
+2017-03-29 16:22:57 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:22:58 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:22:58 - INFO  --> None 
+2017-03-29 16:23:02 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:23:02 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:23:02 - INFO  --> None 
+2017-03-29 16:23:47 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:23:47 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:23:47 - INFO  --> CkTkn_900df3ae-a700-4cbb-a3bf-b7dcc9f3c69f 
+2017-03-29 16:25:21 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:25:21 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 16:25:21 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 16:25:21 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 16:25:21 - INFO  --> SESSIONID :28f16e85-4ad3-4b55-977b-6ea318d7a7a2|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 16:25:21 - INFO  -->  
+2017-03-29 16:25:23 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:25:23 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 16:25:23 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 16:25:23 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 16:25:23 - INFO  --> SESSIONID :28f16e85-4ad3-4b55-977b-6ea318d7a7a2|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 16:25:23 - INFO  -->  
+2017-03-29 16:25:23 - INFO  --> SESSION SAVED 
+2017-03-29 16:25:23 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:25:23 - INFO  --> CkTkn_416c24c6-5084-4786-9fde-0851c4d0c5d9 
+2017-03-29 16:25:43 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:25:43 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:25:43 - INFO  --> CkTkn_9d83be23-5276-4ea8-97ff-a1fc5b3d230a 
+2017-03-29 16:28:18 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:28:18 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:28:18 - INFO  --> CkTkn_418baf2c-c667-4d7b-af09-50e47108cd8d 
+2017-03-29 16:29:23 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:29:23 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:29:23 - INFO  --> CkTkn_33eff2ad-78f1-4801-b024-c18c3df2e118 
+2017-03-29 16:30:15 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:30:16 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:30:16 - INFO  --> CkTkn_65cb139a-f245-4aa3-a4d7-9d33183f57e2 
+2017-03-29 16:32:42 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:32:42 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:32:42 - INFO  --> CkTkn_39ccec9c-8116-4623-936e-87e5b135531f 
+2017-03-29 16:32:50 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:32:50 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:32:50 - INFO  --> CkTkn_ec5e5543-2bbc-41fe-bc13-6c0e718d9210 
+2017-03-29 16:41:20 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:41:20 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:41:20 - INFO  --> CkTkn_7f63a168-32f3-4083-b072-2dcc8d12daa2 
+2017-03-29 16:45:22 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:45:22 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:45:22 - INFO  --> CkTkn_8fa16045-608d-461a-826e-c7f8237b6511 
+2017-03-29 16:48:16 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:48:16 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 16:48:16 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 16:48:16 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 16:48:16 - INFO  --> SESSIONID :89831efd-3c94-434d-b30a-ba608433b973|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 16:48:16 - INFO  -->  
+2017-03-29 16:48:18 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:48:18 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 16:48:18 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 16:48:18 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 16:48:18 - INFO  --> SESSIONID :89831efd-3c94-434d-b30a-ba608433b973|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 16:48:18 - INFO  -->  
+2017-03-29 16:48:18 - INFO  --> SESSION SAVED 
+2017-03-29 16:48:18 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:48:18 - INFO  --> CkTkn_3fa124bc-ce68-4a9a-94a6-c8f15e1e2019 
+2017-03-29 16:48:23 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:48:23 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 16:48:23 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 16:48:23 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 16:48:23 - INFO  --> SESSIONID :4c53b308-bd9a-417b-a43b-f9c39c108f46|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 16:48:23 - INFO  -->  
+2017-03-29 16:50:15 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:50:15 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:50:15 - INFO  --> CkTkn_e72a2ded-7e43-4dca-b738-67e1536a17d8 
+2017-03-29 16:51:02 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:51:02 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:51:02 - INFO  --> CkTkn_bf194756-0f2e-4815-a11f-30dc0cc87286 
+2017-03-29 16:51:07 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:51:07 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:51:07 - INFO  --> CkTkn_f3e81bab-b0cc-4e93-96ce-b89b9a964e79 
+2017-03-29 16:56:37 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 16:56:37 - INFO  --> TOKEN UPDATED 
+2017-03-29 16:56:37 - INFO  --> CkTkn_4be1291b-af5a-41ec-9e2c-ecaf5dc91f36 
+2017-03-29 17:01:52 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:01:52 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:01:52 - INFO  --> CkTkn_ce93d8ae-a3e2-468a-9867-ef4ed70bfaa9 
+2017-03-29 17:01:55 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:01:56 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:01:56 - INFO  --> CkTkn_d26969d1-d423-439c-aee9-9545ece64e9b 
+2017-03-29 17:02:54 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:02:54 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:02:54 - INFO  --> CkTkn_1803e0f8-991f-47c8-909b-f34235d4b1c9 
+2017-03-29 17:04:27 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:04:27 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:04:27 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:04:27 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:04:27 - INFO  --> SESSIONID :1b49e6cc-f59c-4d13-a9c1-663c2d7c5ec7|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:04:27 - INFO  -->  
+2017-03-29 17:04:30 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:04:30 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:04:30 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:04:30 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:04:30 - INFO  --> SESSIONID :1b49e6cc-f59c-4d13-a9c1-663c2d7c5ec7|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:04:30 - INFO  -->  
+2017-03-29 17:04:30 - INFO  --> SESSION SAVED 
+2017-03-29 17:04:30 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:04:30 - INFO  --> CkTkn_be8994cf-92b0-443b-a58c-6edf7460dd4b 
+2017-03-29 17:05:14 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:05:14 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:05:14 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:05:14 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:05:14 - INFO  --> SESSIONID :7da25e4c-368e-4a44-b709-3cc2d69a41a9|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:05:14 - INFO  -->  
+2017-03-29 17:07:15 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:07:15 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:07:15 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:07:15 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:07:15 - INFO  --> SESSIONID :606f4973-af0a-415d-9ec4-4aa2339a65fe|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:07:15 - INFO  -->  
+2017-03-29 17:07:19 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:07:19 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:07:19 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:07:19 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:07:19 - INFO  --> SESSIONID :606f4973-af0a-415d-9ec4-4aa2339a65fe|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:07:19 - INFO  -->  
+2017-03-29 17:07:19 - INFO  --> SESSION SAVED 
+2017-03-29 17:07:19 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:07:19 - INFO  --> CkTkn_b3514cbb-da54-4fa8-acf8-9a9dfa7881b4 
+2017-03-29 17:09:57 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:09:57 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:09:57 - INFO  --> CkTkn_c72aa42a-949e-4aaf-b155-3556976af98d 
+2017-03-29 17:10:29 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:10:29 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:10:29 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:10:29 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:10:29 - INFO  --> SESSIONID :a983a2e9-afdc-4532-bf6d-4fc7fadcff90|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:10:29 - INFO  -->  
+2017-03-29 17:10:32 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:10:32 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:10:32 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:10:32 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:10:32 - INFO  --> SESSIONID :a983a2e9-afdc-4532-bf6d-4fc7fadcff90|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:10:32 - INFO  -->  
+2017-03-29 17:10:32 - INFO  --> SESSION SAVED 
+2017-03-29 17:10:32 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:10:32 - INFO  --> CkTkn_589fd160-ac9b-4cde-8ca0-0d9d54f08174 
+2017-03-29 17:11:33 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:11:33 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:11:33 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:11:33 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:11:33 - INFO  --> SESSIONID :c4e1c80f-564e-481e-adf5-aa88e7543b6d|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:11:33 - INFO  -->  
+2017-03-29 17:11:35 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:11:35 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:11:35 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:11:35 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:11:35 - INFO  --> SESSIONID :c4e1c80f-564e-481e-adf5-aa88e7543b6d|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:11:35 - INFO  -->  
+2017-03-29 17:11:35 - INFO  --> SESSION SAVED 
+2017-03-29 17:11:36 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:11:36 - INFO  --> CkTkn_c932449e-970a-44cc-b1ba-d6b2e07668be 
+2017-03-29 17:14:47 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:14:47 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:14:47 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:14:47 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:14:47 - INFO  --> SESSIONID :eddbe547-b844-4d7d-9a5b-2a56fb7d493f|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:14:47 - INFO  -->  
+2017-03-29 17:14:50 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 17:14:50 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 17:14:50 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 17:14:50 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 17:14:50 - INFO  --> SESSIONID :eddbe547-b844-4d7d-9a5b-2a56fb7d493f|SERVICE CODE :*384*80#|MSISDN :+254606917540|CHECK OUT TOKEN : 
+2017-03-29 17:14:50 - INFO  -->  
+2017-03-29 17:14:50 - INFO  --> SESSION SAVED 
+2017-03-29 17:14:50 - INFO  --> TOKEN UPDATED 
+2017-03-29 17:14:50 - INFO  --> CkTkn_210e3c35-2bf1-4d06-af35-264602b9e32f 
+2017-03-29 20:37:40 - INFO  --> Incoming request for Kenya ussd 
+2017-03-29 20:37:40 - INFO  --> ============= KENYA TUKO QUIX CALL =============== 
+2017-03-29 20:37:40 - INFO  --> ============= RETRIEVING SDP PARAMETERS =============== 
+2017-03-29 20:37:40 - INFO  --> LOG INCOMING PARAMETERS FROM GATEWAY 
+2017-03-29 20:37:40 - INFO  --> SESSIONID :ATUid_4bbb2f4f067861959cc29b4a227df8b9|SERVICE CODE :*384*11#|MSISDN :+254727588181|CHECK OUT TOKEN : 
+2017-03-29 20:37:40 - INFO  -->  
+2017-03-29 20:37:41 - INFO  --> CALL SAVED 
+2017-03-29 20:37:41 - INFO  --> WAITING FOR THE CALL TO FINISH FOR SMS SENDING 45 min 
+2017-03-29 20:37:41 - INFO  --> SMS SENT TO LEG A 
+2017-03-29 20:37:41 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254727588181</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_c2154471eb9f2f1685c743cd755be14a</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
+2017-03-29 20:37:42 - INFO  --> SMS SENT TO LEG B 
+2017-03-29 20:37:42 - INFO  --> <AfricasTalkingResponse><SMSMessageData><Message>Sent to 1/1 Total Cost: KES 1.0000</Message><Recipients><Recipient><number>+254700308763</number><cost>KES 1.0000</cost><status>Success</status><messageId>ATXid_45ddd2391729d1460cf5f9711db87eff</messageId></Recipient></Recipients></SMSMessageData></AfricasTalkingResponse> 
